@@ -1,5 +1,5 @@
 # EMBEDDED-SYSTEM
- > ## For Homework
+ > ## For Homework :+1:
  >>   by `นายนุกูล ลิ้มรัตน์ รหัสนักศึกษา 56030293`
 >- [X] HW1 SOS Video >>>[Click to Watch!](https://www.youtube.com/watch?v=BVwoA5EXfAI)
 >- [X] HW2 Dice Video >>>[Click to Watch!](https://youtu.be/0j9hswn3UE0)
