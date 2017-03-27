@@ -1,8 +1,9 @@
 # EMBEDDED-SYSTEM
-> นายนุกูล ลิ้มรัตน์  รหัสนักศึกษา 56030293
+
 - For Homework :+1:
 *  [x] HW1 SOS Video >>>[Click to Watch!](https://www.youtube.com/watch?v=BVwoA5EXfAI)
 *  [x] HW2 Dice Video >>>[Click to Watch!](https://youtu.be/0j9hswn3UE0)
+
 *  [x] HW3 
       - fixed number 7segs Video >>>[Click to Watch!](https://www.youtube.com/watch?v=1ydN9V4ovNo)
       - Single digits 7segs Video >>>[Click to Watch!](https://www.youtube.com/watch?v=45jSI8pAf2o)
