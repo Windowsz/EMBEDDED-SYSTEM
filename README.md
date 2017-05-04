@@ -8,3 +8,5 @@
 > - Single digits 7segs Video >>>[Click to Watch!](https://www.youtube.com/watch?v=45jSI8pAf2o)
 > - Quick 0-9 7segs Video >>>[Click to Watch!](https://www.youtube.com/watch?v=XqRFdo70U8g)
 >- [X] HW4 Charlieplexing Video >>>[Click to Watch!](https://www.youtube.com/watch?v=_1el_czNE0w)
+>- [X] HW5 Potentiometer Video >>>[Click to Watch!](https://www.youtube.com/watch?v=y3vctEenM80)
+>- [X] HW6 LDR Video >>>[Click to Watch!](https://www.youtube.com/watch?v=W_1cp9B23Zc)
